@@ -1,0 +1,10 @@
+﻿  ViewManager.cpp
+C:\Users\taker\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(137,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\taker\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(138,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\taker\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(143,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\taker\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(144,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\taker\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(147,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\taker\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(148,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\taker\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(163,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\taker\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(268,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\taker\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
