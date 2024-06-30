@@ -20,7 +20,7 @@ The 3D scene replicates my personal desk setup, including a lavender corner desk
 - **Texturing**: Realistic textures were applied to each object to enhance visual detail, including a lavender texture for the desk and screen textures for the monitors.
 - **Lighting**: Multiple light sources, including ambient, diffuse, and specular lighting, were implemented to create realistic lighting effects and shadows.
 
-![3D Scene Screenshot](path_to_your_screenshot.jpg)
+![3D Scene Screenshot](https://github.com/EmpressCatbug/CS330Final/blob/main/CS330Final.png)
 
 ### Navigation and Interaction
 
